@@ -1,2 +1,1 @@
-# NewMvcexample
-template
+# exampleMvc
